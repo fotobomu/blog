@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          fotobomu
 paginate:       5
 baseurl:        "/blog"
 url:            "https://fotobomu.github.io/blog"
