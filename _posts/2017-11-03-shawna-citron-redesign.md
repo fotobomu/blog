@@ -14,21 +14,21 @@ Since I have embarked on an adventure to strengthen my coding skills in earnest,
 <img src="https://raw.githubusercontent.com/fotobomu/blog/gh-pages/_assets/_images/_shawna/shawna-after.png" alt="After Image">
 _Behold! Shawna's website after the rebuild. <a href="https://fotobomu.github.io/shawna-citron/" target="_blank">View it live</a>._
 
-1.	Aesthetics
+## Aesthetics
 
 I wanted to keep things attractive yet simple. I chose a limited palate consisting of yellow/orange as the primary color, black text in the body, and grey boxes/horizontal rules. The main photo in the header was provided by Unsplash, photographed by Joanna Kosinska.
 
-2.	Content Arrangement
+## Content Arrangement
 
 Placing all the content on a single page (divided using sections) was a must. There was no reason to have separate pages for such a simple and light-weight website. However, I still added a navigation at the top that will collapse when viewed on mobile or when the window size is reduced.
 
 On the original website the homepage has an unordered list of behaviors that a concerned parent may notice about their child. For the redesign, I used cards from the Bootstrap framework along with icons from Font Awesome. In doing so, the page feels more visually-balanced than it was before.
 
-3.	Accessibility
+## Accessibility
 
 Testimonials were provided by Shawna as scanned PDFs and images from her clients. On the original website they were displayed as images with no alt text applied (*gasp*). I know, this was poor practice on my part. But I have since learned to do far better, especially having worked directly with the Ontario Government in Web Accessibility. It was a main priority to take these testimonials and convert them to be readable. I used Bootstrap’s block quotes for this purpose.
 
-4.	Areas of Improvement
+## Areas of Improvement
 
 I’m a firm believer that projects are iterative. Although this new website for Shawna is a huge jump from what it was before, there are still opportunities to improve the site. As I learn JavaScript I’d like to inject more functionality, such as having the cards highlight as you hover over them.
 
