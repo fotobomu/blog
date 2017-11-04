@@ -7,7 +7,7 @@ author: "Geoff"
 Back in 2012 I made a website for a client, Shawna Citron, a Psycho-Educational Consultant. The website itself was very simple: text-based static pages that conveyed the required information (i.e. about Shawna’s consultancy, her assessment practice, and contact details). I built the website using WordPress, but it was not responsive as I admittedly did not know about the Bootstrap framework back then.
 
 <img src="https://raw.githubusercontent.com/fotobomu/blog/gh-pages/_assets/_images/_shawna/shawna-before.png" alt="Before Image">
-_This is what Shawna's website used to look like. We all had to start somehwere, right?_
+_This is what Shawna's website used to look like. We all had to start somehwere, right? <a href="http://shawnacitron.com/">You can view the old website here</a>, but be warned, it's not pretty._
 
 Since I have embarked on an adventure to strengthen my coding skills in earnest, I wanted to revisit Shawna’s website and rebuild it from the ground up. I took a mindful approach to the redesign: the information needed to be conveyed in a readable but engaging way.
 
